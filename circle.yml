@@ -9,3 +9,9 @@ test:
 test:
   post:
     - bash <(curl -s https://codecov.io/bash)
+
+notify:
+  webhooks:
+    # A list of hook hashes, containing the url field
+    # gitter hook
+    - url: https://webhooks.gitter.im/e/f478aa2a5fb5c8462c66

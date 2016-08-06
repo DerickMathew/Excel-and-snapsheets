@@ -5,4 +5,4 @@ print "of Septermber 2016.\n\n Till then try out ... "
 print " - resize.py to resize your images ..."
 print " \n\t followed by "
 print " - snap2snappsheet.py to create your very own snapsheet "
-print "\n\n\nAll the best\n\n"` 
+print "\n\n\nAll the best\n\n"`

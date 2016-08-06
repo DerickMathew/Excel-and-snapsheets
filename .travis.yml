@@ -13,5 +13,13 @@ install:
 script:
   - python -m unittest discover -s ./tests --verbose
 
+notifications:
+  webhooks:
+    urls:
+      - https://webhooks.gitter.im/e/e12bddb5272997bd3ee9
+    on_success: always  # options: [always|never|change] default: always
+    on_failure: always  # options: [always|never|change] default: always
+    on_start: change     # options: [always|never|change] default: always
+
 after_success:
   - bash <(curl -s https://codecov.io/bash)
