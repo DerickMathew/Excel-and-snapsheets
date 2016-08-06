@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/DerickMathew/excel-and-snapsheets.png?label=ready&title=Ready)](https://waffle.io/DerickMathew/excel-and-snapsheets)
 
 # Excel-and-snapsheets
 
