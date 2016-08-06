@@ -1,15 +1,16 @@
+[![CircleCI](https://circleci.com/gh/DerickMathew/excel-and-snapsheets.svg?style=shield)](https://circleci.com/gh/DerickMathew/excel-and-snapsheets)
+&nbsp;
+[![Build Status](https://travis-ci.org/DerickMathew/excel-and-snapsheets.svg?branch=master)](https://travis-ci.org/DerickMathew/excel-and-snapsheets)
+&nbsp;
 [![Stories in Ready](https://badge.waffle.io/DerickMathew/excel-and-snapsheets.png?label=ready&title=Ready)](https://waffle.io/DerickMathew/excel-and-snapsheets)
+&nbsp;
+[ ![Codeship Status for DerickMathew/excel-and-snapsheets](https://codeship.com/projects/98bbd320-3e22-0134-a4e9-4e9c4058d5c6/status?branch=master)](https://codeship.com/projects/167313)
 
 # Excel-and-snapsheets
 
 (Read ```Excellent snap sheets```)
 
 ------------------------------------------
-[![CircleCI](https://circleci.com/gh/DerickMathew/excel-and-snapsheets.svg?style=shield)](https://circleci.com/gh/DerickMathew/excel-and-snapsheets)
-&nbsp;
-[![Build Status](https://travis-ci.org/DerickMathew/excel-and-snapsheets.svg?branch=master)](https://travis-ci.org/DerickMathew/excel-and-snapsheets)
-<br/>
-<br/>
 A hobby project that converts your pictures into a spreadsheet.
 <br/>
 <br/>
