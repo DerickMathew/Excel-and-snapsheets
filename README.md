@@ -4,6 +4,10 @@
 &nbsp;
 [ ![Codeship Status for DerickMathew/excel-and-snapsheets](https://codeship.com/projects/98bbd320-3e22-0134-a4e9-4e9c4058d5c6/status?branch=master)](https://codeship.com/projects/167313)
 &nbsp;
+[![Test Coverage](https://codeclimate.com/github/DerickMathew/excel-and-snapsheets/badges/coverage.svg)](https://codeclimate.com/github/DerickMathew/excel-and-snapsheets/coverage)
+&nbsp;
+[![Code Climate](https://codeclimate.com/github/DerickMathew/excel-and-snapsheets/badges/gpa.svg)](https://codeclimate.com/github/DerickMathew/excel-and-snapsheets)
+&nbsp;
 [![codecov](https://codecov.io/gh/DerickMathew/excel-and-snapsheets/branch/master/graph/badge.svg)](https://codecov.io/gh/DerickMathew/excel-and-snapsheets)
 &nbsp;
 [![Coverage Status](https://coveralls.io/repos/github/DerickMathew/excel-and-snapsheets/badge.svg?branch=master)](https://coveralls.io/github/DerickMathew/excel-and-snapsheets?branch=master)
@@ -13,7 +17,9 @@
 &nbsp;
 [![Stories in Ready](https://badge.waffle.io/DerickMathew/excel-and-snapsheets.png?label=ready&title=Ready)](https://waffle.io/DerickMathew/excel-and-snapsheets)
 &nbsp;
-[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://opensource.org/licenses/mit-license.php)
+[![Issue Count](https://codeclimate.com/github/DerickMathew/excel-and-snapsheets/badges/issue_count.svg)](https://codeclimate.com/github/DerickMathew/excel-and-snapsheets)
+&nbsp;
+[![MIT Licence](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/mit-license.php)
 
 # Excel-and-snapsheets
 
