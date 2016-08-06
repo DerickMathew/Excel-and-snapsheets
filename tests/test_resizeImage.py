@@ -1,7 +1,7 @@
 import unittest
 
 
-class test_resize_image(test_test_base):
+class test_resize_image(unittest.TestCase):
 
     def setUp(self):
         """

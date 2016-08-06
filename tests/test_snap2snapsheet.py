@@ -1,7 +1,7 @@
 import unittest
 
 
-class test_snap2snapsheet(test_test_base):
+class test_snap2snapsheet(unittest.TestCase):
 
     def setUp(self):
         """

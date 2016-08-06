@@ -1,7 +1,7 @@
 import unittest
 
 
-class test_excel_and_snapsheets(test_test_base):
+class test_excel_and_snapsheets(unittest.TestCase):
 
     def setUp(self):
         """
