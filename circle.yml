@@ -5,3 +5,7 @@ dependencies:
 test:
     override:
         - python -m unittest discover -s ./tests --verbose
+
+test:
+  post:
+    - bash <(curl -s https://codecov.io/bash)

@@ -5,6 +5,9 @@
 [![Stories in Ready](https://badge.waffle.io/DerickMathew/excel-and-snapsheets.png?label=ready&title=Ready)](https://waffle.io/DerickMathew/excel-and-snapsheets)
 &nbsp;
 [ ![Codeship Status for DerickMathew/excel-and-snapsheets](https://codeship.com/projects/98bbd320-3e22-0134-a4e9-4e9c4058d5c6/status?branch=master)](https://codeship.com/projects/167313)
+<br/>
+<br/>
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://opensource.org/licenses/mit-license.php)
 
 # Excel-and-snapsheets
 
