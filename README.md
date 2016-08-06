@@ -2,6 +2,8 @@
 # Excel-and-snapsheets
 
 (Read ```Excellent snap sheets```)
+<br/>
+[![CircleCI](https://circleci.com/gh/DerickMathew/excel-and-snapsheets.svg?style=shield)](https://circleci.com/gh/DerickMathew/excel-and-snapsheets)
 
 ------------------------------------------
 A hobby project that converts your pictures into a spreadsheet.
