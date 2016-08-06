@@ -28,7 +28,12 @@ $ python excel-and-snapsheets.py \
 <br/>
 #### Issues & Enhancements
 ----
-Write to me @ [derick.j.mathew@gmail.com](derick.j.mathew@gmail.com). If you want to submit code, make a pull request. [I do shoutouts :grin:]
+Create an issue and I will work on it or tell you why i am shelving it.<br/>
+If you're not a @github user & don't want to register you can send your bug or enhancement to me @ [derick.j.mathew@gmail.com](derick.j.mathew@gmail.com)
+<br/>
+If you want to submit code, make a pull request.
+<br/>
+PS. : I do shoutouts :grin:
 <br/>
 <br/>
 #### History:
