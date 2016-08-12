@@ -52,9 +52,7 @@ $ python excel-and-snapsheets.py \
 Create an issue and I will work on it or tell you why i am shelving it.<br/>
 If you're not a @github user & don't want to register you can send your bug or enhancement to me @ [derick.j.mathew@gmail.com](derick.j.mathew@gmail.com)
 <br/>
-If you want to submit code, make a pull request.
-<br/>
-PS. : I do shoutouts :grin:
+If you want to submit code, make a pull request. :grin:
 <br/>
 <br/>
 #### History:
