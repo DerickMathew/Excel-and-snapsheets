@@ -4,6 +4,8 @@
 &nbsp;
 [ ![Codeship Status for DerickMathew/excel-and-snapsheets](https://codeship.com/projects/98bbd320-3e22-0134-a4e9-4e9c4058d5c6/status?branch=master)](https://codeship.com/projects/167313)
 &nbsp;
+[![Build Status](https://semaphoreci.com/api/v1/derickmathew/excel-and-snapsheets/branches/master/badge.svg)](https://semaphoreci.com/derickmathew/excel-and-snapsheets)
+&nbsp;
 [![Test Coverage](https://codeclimate.com/github/DerickMathew/excel-and-snapsheets/badges/coverage.svg)](https://codeclimate.com/github/DerickMathew/excel-and-snapsheets/coverage)
 &nbsp;
 [![Code Climate](https://codeclimate.com/github/DerickMathew/excel-and-snapsheets/badges/gpa.svg)](https://codeclimate.com/github/DerickMathew/excel-and-snapsheets)
