@@ -33,6 +33,21 @@ class img_to_excel():
     def blue_format(self, value):
         return self.create_format(value, color.blue)
 
+    def get_column_name(self, col_num):
+        alphabet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
+        col_name = ""
+        if col_num == 0:
+            return 'A'
+        while col_num > 0:
+            if col_name:
+                col_num -= 1
+            mod_val = col_num % 26
+            print str(col_num) + ' ' + str(mod_val)
+            col_name = alphabet[col_num % 26] + col_name
+            col_num -= mod_val
+            col_num /= 26
+        return col_name
+
     def create_excel_from_image(self, image_name,workbook_name):
         # Create an new Excel file and add a worksheet.
         workbook = xlsxwriter.Workbook(workbook_name)
@@ -46,8 +61,8 @@ class img_to_excel():
         (width, length) = img.size
         excel_rows_values = []
 
-        # TODO: Dont convert all the way to AAA, calculate it !!!
-        worksheet.set_column('A:AAA', 3)
+        column_range = 'A:' + self.get_column_name(width)
+        worksheet.set_column(column_range, 3)
         for column in range(width):
             for row in range(length * 3):
                 worksheet.set_row(row, 1)
