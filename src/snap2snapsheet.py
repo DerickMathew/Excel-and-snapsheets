@@ -95,7 +95,7 @@ class img_to_excel():
 def main():
     i2e_obj = img_to_excel()
     # TODO : dont hardcode values get it from the user as advertised !!!
-    i2e_obj.create_excel_from_image("../images/derickmathew_dp01.thumbnail",'output.xlsx')
+    i2e_obj.create_excel_from_image("images/derickmathew_dp01.thumbnail",'img_to_excel/derickmathew_dp1.xlsx')
 
 if __name__ == "__main__":
     main()
